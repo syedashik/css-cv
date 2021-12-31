@@ -1,0 +1,145 @@
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: none;
+  border-top: 6px dotted #EAF6F6;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background: #D4ECDD;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.a-programmer {
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 380px;
+}
+
+.mountain-img {
+  margin: -4px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.profile-img {
+  width: 12.5%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.contact-description {
+  margin: 40px auto;
+}
+
+.btn {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #EAF6F6;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 14px;
+  background-color: #66BFBF;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  line-height: normal;
+}
+
+.btn:hover {
+  background: #56CFB9;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background: #66BFBF;
+  padding: 50px 0 30px;
+}
+
+.footer-link {
+  margin: 15px;
+  color: #11999E;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.footer-copyright {
+  margin: 30px auto;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
